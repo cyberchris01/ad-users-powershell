@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-</p>
+![adl](https://github.com/user-attachments/assets/8cc50950-61e4-49a4-be39-8e3d562ce2ab)
 
 <h1>Creating Users in Active Directory with PowerShell</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
